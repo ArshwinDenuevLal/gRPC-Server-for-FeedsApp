@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2TransportServices/Config+TLS.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Config+TLS.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Config+TLS.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Config+TLS~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Config+TLS.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2TransportServices/Exports.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Exports.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Exports.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/Exports.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2TransportServices/HTTP2ClientTransport+TransportServices.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ClientTransport+TransportServices.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ClientTransport+TransportServices.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ClientTransport+TransportServices~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ClientTransport+TransportServices.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2TransportServices/HTTP2ServerTransport+TransportServices.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ServerTransport+TransportServices.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ServerTransport+TransportServices.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ServerTransport+TransportServices~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2TransportServices.build/HTTP2ServerTransport+TransportServices.swiftdeps"
+  }
+}

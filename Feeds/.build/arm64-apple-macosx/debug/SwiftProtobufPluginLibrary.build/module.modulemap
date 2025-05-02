@@ -1,0 +1,4 @@
+module SwiftProtobufPluginLibrary {
+    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/SwiftProtobufPluginLibrary.build/SwiftProtobufPluginLibrary-Swift.h"
+    requires objc
+}

@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/Config+TLS.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Config+TLS.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Config+TLS.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Config+TLS~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Config+TLS.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/Exports.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Exports.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Exports.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/Exports.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/HTTP2ClientTransport+Posix.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ClientTransport+Posix.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ClientTransport+Posix.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ClientTransport+Posix~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ClientTransport+Posix.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/HTTP2ServerTransport+Posix.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ServerTransport+Posix.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ServerTransport+Posix.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ServerTransport+Posix~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/HTTP2ServerTransport+Posix.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/NIOClientBootstrap+SocketAddress.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOClientBootstrap+SocketAddress.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOClientBootstrap+SocketAddress.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOClientBootstrap+SocketAddress~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOClientBootstrap+SocketAddress.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/GRPCNIOTransportHTTP2Posix/NIOSSL+GRPC.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOSSL+GRPC.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOSSL+GRPC.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOSSL+GRPC~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportHTTP2Posix.build/NIOSSL+GRPC.swiftdeps"
+  }
+}

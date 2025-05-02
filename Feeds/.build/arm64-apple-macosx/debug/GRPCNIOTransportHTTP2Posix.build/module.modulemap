@@ -1,0 +1,4 @@
+module GRPCNIOTransportHTTP2Posix {
+    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2Posix.build/GRPCNIOTransportHTTP2Posix-Swift.h"
+    requires objc
+}

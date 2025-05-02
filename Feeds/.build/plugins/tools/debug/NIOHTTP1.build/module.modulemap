@@ -1,0 +1,4 @@
+module NIOHTTP1 {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOHTTP1.build/NIOHTTP1-Swift.h"
+    requires objc
+}

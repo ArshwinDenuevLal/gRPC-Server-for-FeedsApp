@@ -1,0 +1,4 @@
+module SystemPackage {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/SystemPackage.build/SystemPackage-Swift.h"
+    requires objc
+}

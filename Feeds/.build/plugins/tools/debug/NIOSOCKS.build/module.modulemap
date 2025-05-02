@@ -1,0 +1,4 @@
+module NIOSOCKS {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOSOCKS.build/NIOSOCKS-Swift.h"
+    requires objc
+}

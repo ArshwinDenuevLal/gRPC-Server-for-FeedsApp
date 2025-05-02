@@ -1,0 +1,4 @@
+module NIOEmbedded {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOEmbedded.build/NIOEmbedded-Swift.h"
+    requires objc
+}

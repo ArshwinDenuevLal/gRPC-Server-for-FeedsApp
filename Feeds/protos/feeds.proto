@@ -1,0 +1,34 @@
+//
+//  feeds.proto
+//  FeedsApp
+//
+//  Created by admin on 29/04/25.
+//
+
+// Protocol buffer definition for the FeedsService used in FeedsApp.
+// Defines the service, request, and response messages for gRPC communication.
+  syntax = "proto3";
+
+// Package namespace for the Feeds service definitions.
+  package feeds;
+
+// Service definition for FeedsService
+// Contains RPC methods exposed to clients.
+  service FeedsService {
+    // GetFeeds is a unary RPC call that accepts a FeedsRequest and returns a FeedsResponse.
+    // Used to fetch feed-related data based on the request input.
+    rpc GetFeeds (FeedsRequest) returns (FeedsResponse);
+  }
+
+// Request message sent to the GetFeeds RPC.
+  message FeedsRequest {
+    // The feeds string contains the request parameter, such as a feed identifier or query keyword.
+    string feeds = 1;
+  }
+
+// Response message returned by the GetFeeds RPC.
+  message FeedsResponse {
+    // The message string holds the response content or status related to the feed request.
+    string message = 1;
+  }
+

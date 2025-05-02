@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-protobuf/Sources/protoc-gen-grpc-swift/GenerateGRPC.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/GenerateGRPC.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/GenerateGRPC.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/GenerateGRPC~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/GenerateGRPC.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-protobuf/Sources/protoc-gen-grpc-swift/Options.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Options.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Options.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Options.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/grpc-swift-protobuf/Sources/protoc-gen-grpc-swift/Version.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Version.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Version.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Version~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/protoc_gen_grpc_swift.build/Version.swiftdeps"
+  }
+}

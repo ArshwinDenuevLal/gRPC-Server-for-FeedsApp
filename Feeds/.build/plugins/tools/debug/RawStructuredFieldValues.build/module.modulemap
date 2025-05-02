@@ -1,0 +1,4 @@
+module RawStructuredFieldValues {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/RawStructuredFieldValues.build/RawStructuredFieldValues-Swift.h"
+    requires objc
+}

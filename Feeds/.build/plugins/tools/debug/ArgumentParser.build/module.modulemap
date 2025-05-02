@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/ArgumentParser.build/ArgumentParser-Swift.h"
+    requires objc
+}

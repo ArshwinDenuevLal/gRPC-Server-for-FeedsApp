@@ -1,0 +1,4 @@
+module Algorithms {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/Algorithms.build/Algorithms-Swift.h"
+    requires objc
+}

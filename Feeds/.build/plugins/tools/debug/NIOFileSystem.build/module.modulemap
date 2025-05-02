@@ -1,0 +1,4 @@
+module NIOFileSystem {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOFileSystem.build/NIOFileSystem-Swift.h"
+    requires objc
+}

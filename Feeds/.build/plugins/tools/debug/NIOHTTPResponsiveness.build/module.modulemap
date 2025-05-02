@@ -1,0 +1,4 @@
+module NIOHTTPResponsiveness {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOHTTPResponsiveness.build/NIOHTTPResponsiveness-Swift.h"
+    requires objc
+}

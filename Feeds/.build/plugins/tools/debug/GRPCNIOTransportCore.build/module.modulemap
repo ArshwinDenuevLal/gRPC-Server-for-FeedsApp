@@ -1,0 +1,4 @@
+module GRPCNIOTransportCore {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCNIOTransportCore.build/GRPCNIOTransportCore-Swift.h"
+    requires objc
+}

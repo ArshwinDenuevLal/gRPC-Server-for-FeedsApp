@@ -1,0 +1,4 @@
+module NIOCore {
+    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOCore.build/NIOCore-Swift.h"
+    requires objc
+}

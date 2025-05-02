@@ -1,0 +1,4 @@
+module NIOHPACK {
+    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHPACK.build/NIOHPACK-Swift.h"
+    requires objc
+}

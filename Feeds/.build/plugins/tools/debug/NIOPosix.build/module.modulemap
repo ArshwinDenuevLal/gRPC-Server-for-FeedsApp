@@ -1,0 +1,4 @@
+module NIOPosix {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOPosix.build/NIOPosix-Swift.h"
+    requires objc
+}

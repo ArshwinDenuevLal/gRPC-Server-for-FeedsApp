@@ -1,0 +1,4 @@
+module _NIOFileSystemFoundationCompat {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/_NIOFileSystemFoundationCompat.build/_NIOFileSystemFoundationCompat-Swift.h"
+    requires objc
+}

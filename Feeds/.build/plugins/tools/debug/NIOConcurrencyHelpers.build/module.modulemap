@@ -1,0 +1,4 @@
+module NIOConcurrencyHelpers {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers-Swift.h"
+    requires objc
+}

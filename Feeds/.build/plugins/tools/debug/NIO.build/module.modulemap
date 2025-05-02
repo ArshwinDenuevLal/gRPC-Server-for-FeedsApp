@@ -1,0 +1,4 @@
+module NIO {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIO.build/NIO-Swift.h"
+    requires objc
+}

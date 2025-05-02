@@ -1,0 +1,4 @@
+module NIOHTTPCompression {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOHTTPCompression.build/NIOHTTPCompression-Swift.h"
+    requires objc
+}

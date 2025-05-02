@@ -1,0 +1,4 @@
+module SwiftProtobuf {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/SwiftProtobuf.build/SwiftProtobuf-Swift.h"
+    requires objc
+}

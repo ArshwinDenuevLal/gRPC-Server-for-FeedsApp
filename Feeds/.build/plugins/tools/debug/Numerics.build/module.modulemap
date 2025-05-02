@@ -1,0 +1,4 @@
+module Numerics {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/Numerics.build/Numerics-Swift.h"
+    requires objc
+}

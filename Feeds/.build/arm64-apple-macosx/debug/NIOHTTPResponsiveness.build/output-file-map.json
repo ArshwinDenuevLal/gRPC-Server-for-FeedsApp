@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOHTTPResponsiveness/HTTPDrippingDownloadHandler.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPDrippingDownloadHandler.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPDrippingDownloadHandler.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPDrippingDownloadHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPDrippingDownloadHandler.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOHTTPResponsiveness/HTTPReceiveDiscardHandler.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPReceiveDiscardHandler.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPReceiveDiscardHandler.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPReceiveDiscardHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/HTTPReceiveDiscardHandler.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOHTTPResponsiveness/ResponsivenessConfig.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/ResponsivenessConfig.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/ResponsivenessConfig.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/ResponsivenessConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/ResponsivenessConfig.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOHTTPResponsiveness/SimpleResponsivenessRequestMux.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/SimpleResponsivenessRequestMux.d",
+    "object": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/SimpleResponsivenessRequestMux.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/SimpleResponsivenessRequestMux~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPResponsiveness.build/SimpleResponsivenessRequestMux.swiftdeps"
+  }
+}

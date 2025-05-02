@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUpload.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUpload.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUpload.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUpload~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUpload.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadChannel.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadContext.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadContext.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadContext.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadContext.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadHandler.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadProtocol.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.swiftdeps"
+  }
+}

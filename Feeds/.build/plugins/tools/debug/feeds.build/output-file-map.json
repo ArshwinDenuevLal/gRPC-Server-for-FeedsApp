@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/master.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/FeedsClient/ClientArguments.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientArguments.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientArguments.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientArguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientArguments.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/FeedsClient/ClientService.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientService.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientService.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientService~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ClientService.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/FeedsServer/Feeds.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Feeds.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Feeds.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Feeds~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Feeds.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/FeedsServer/Serve.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Serve.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Serve.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Serve~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/Serve.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/FeedsServer/ServiceHandler.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ServiceHandler.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ServiceHandler.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ServiceHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/ServiceHandler.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/feeds.grpc.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.grpc.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.grpc.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.grpc~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.grpc.swiftdeps"
+  },
+  "/Users/admin/Documents/Feeds/Sources/feeds.pb.swift": {
+    "dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.pb.d",
+    "object": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.pb.swift.o",
+    "swiftmodule": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.pb~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/feeds.build/feeds.pb.swiftdeps"
+  }
+}

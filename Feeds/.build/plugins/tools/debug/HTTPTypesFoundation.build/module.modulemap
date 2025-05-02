@@ -1,0 +1,4 @@
+module HTTPTypesFoundation {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/HTTPTypesFoundation.build/HTTPTypesFoundation-Swift.h"
+    requires objc
+}

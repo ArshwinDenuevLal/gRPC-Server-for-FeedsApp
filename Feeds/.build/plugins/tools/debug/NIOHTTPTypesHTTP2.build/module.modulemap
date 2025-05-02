@@ -1,0 +1,4 @@
+module NIOHTTPTypesHTTP2 {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOHTTPTypesHTTP2.build/NIOHTTPTypesHTTP2-Swift.h"
+    requires objc
+}

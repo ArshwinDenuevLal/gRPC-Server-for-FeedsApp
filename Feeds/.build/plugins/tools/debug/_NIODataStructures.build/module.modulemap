@@ -1,0 +1,4 @@
+module _NIODataStructures {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/_NIODataStructures.build/_NIODataStructures-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NIOFoundationCompat {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
+    requires objc
+}

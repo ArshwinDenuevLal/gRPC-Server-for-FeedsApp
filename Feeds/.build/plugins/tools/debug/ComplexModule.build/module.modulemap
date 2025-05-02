@@ -1,0 +1,4 @@
+module ComplexModule {
+    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/ComplexModule.build/ComplexModule-Swift.h"
+    requires objc
+}
