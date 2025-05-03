@@ -22,7 +22,7 @@ final class ServiceHandler: FeedsService.SimpleServiceProtocol, ServiceHandlerTy
         var response = FeedsResponse()
         print("response instance created")
         do {
-            let url = URL(filePath: "/Users/admin/Documents/Feeds/Sources/FeedsServer/Resources/FeedsJSON.json")
+            let url = URL(filePath:"./Sources/FeedsServer/Resources/FeedsJSON.json")
             let jsonString = try String(contentsOf: url, encoding: .utf8)
             print(jsonString)
             response.message = jsonString
