@@ -1,6 +1,5 @@
 # gRPC-Server---FeedsApp
 
-code for gRPC Server to serve FeedsApp
 
 <p>
 <img src="https://github.com/ArshwinDenuevLal/gRPC-Server---FeedsApp/blob/main/Feeds/FeedsServerProcessFlowDiagram.png?raw=true"></p>
