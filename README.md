@@ -3,7 +3,7 @@
 code for gRPC Server to serve FeedsApp
 
 <p>
-<img src="https://github.com/ArshwinDenuevLal/gRPC-Server---FeedsApp/blob/main/Feeds/FeedsServerProcessFlowDiagram.png?raw=true"></p>
+<img src="https://github.com/ArshwinDenuevLal/gRPC-Server-for-FeedsApp/blob/main/FeedsServerProcessFlowDiagram.png"></p>
 
 
 # feeds.proto
