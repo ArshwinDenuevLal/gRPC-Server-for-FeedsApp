@@ -1,4 +1,0 @@
-module DequeModule {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/DequeModule.build/DequeModule-Swift.h"
-    requires objc
-}

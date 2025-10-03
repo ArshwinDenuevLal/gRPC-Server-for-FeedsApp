@@ -1,4 +1,0 @@
-module GRPCCore {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCCore.build/GRPCCore-Swift.h"
-    requires objc
-}

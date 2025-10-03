@@ -1,4 +1,0 @@
-module NIOHTTPCompression {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOHTTPCompression.build/NIOHTTPCompression-Swift.h"
-    requires objc
-}

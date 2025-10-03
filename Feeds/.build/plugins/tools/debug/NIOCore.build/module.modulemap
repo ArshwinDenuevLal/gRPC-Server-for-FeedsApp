@@ -1,4 +1,0 @@
-module NIOCore {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOCore.build/NIOCore-Swift.h"
-    requires objc
-}

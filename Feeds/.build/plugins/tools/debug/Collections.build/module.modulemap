@@ -1,4 +1,0 @@
-module Collections {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/Collections.build/Collections-Swift.h"
-    requires objc
-}

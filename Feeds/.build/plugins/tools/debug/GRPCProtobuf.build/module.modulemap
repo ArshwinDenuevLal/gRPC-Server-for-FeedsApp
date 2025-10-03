@@ -1,4 +1,0 @@
-module GRPCProtobuf {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCProtobuf.build/GRPCProtobuf-Swift.h"
-    requires objc
-}

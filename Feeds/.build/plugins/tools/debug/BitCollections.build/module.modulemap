@@ -1,4 +1,0 @@
-module BitCollections {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/BitCollections.build/BitCollections-Swift.h"
-    requires objc
-}

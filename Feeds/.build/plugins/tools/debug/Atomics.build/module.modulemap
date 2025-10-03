@@ -1,4 +1,0 @@
-module Atomics {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/Atomics.build/Atomics-Swift.h"
-    requires objc
-}

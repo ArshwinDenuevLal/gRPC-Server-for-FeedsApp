@@ -1,4 +1,0 @@
-module InternalCollectionsUtilities {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/InternalCollectionsUtilities.build/InternalCollectionsUtilities-Swift.h"
-    requires objc
-}

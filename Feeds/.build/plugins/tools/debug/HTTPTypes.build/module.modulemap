@@ -1,4 +1,0 @@
-module HTTPTypes {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/HTTPTypes.build/HTTPTypes-Swift.h"
-    requires objc
-}

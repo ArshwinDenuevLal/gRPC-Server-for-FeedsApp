@@ -1,4 +1,0 @@
-module NIOTLS {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOTLS.build/NIOTLS-Swift.h"
-    requires objc
-}

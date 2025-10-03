@@ -1,4 +1,0 @@
-module NIOHPACK {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOHPACK.build/NIOHPACK-Swift.h"
-    requires objc
-}

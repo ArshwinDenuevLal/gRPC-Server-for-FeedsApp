@@ -1,4 +1,0 @@
-module GRPCNIOTransportCore {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportCore.build/GRPCNIOTransportCore-Swift.h"
-    requires objc
-}

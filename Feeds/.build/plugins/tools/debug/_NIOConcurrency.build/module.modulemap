@@ -1,4 +1,0 @@
-module _NIOConcurrency {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/_NIOConcurrency.build/_NIOConcurrency-Swift.h"
-    requires objc
-}

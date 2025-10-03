@@ -1,4 +1,0 @@
-module ComplexModule {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/ComplexModule.build/ComplexModule-Swift.h"
-    requires objc
-}

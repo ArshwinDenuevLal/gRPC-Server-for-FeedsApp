@@ -1,4 +1,0 @@
-module OrderedCollections {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/OrderedCollections.build/OrderedCollections-Swift.h"
-    requires objc
-}

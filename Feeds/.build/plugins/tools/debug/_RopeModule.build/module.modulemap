@@ -1,4 +1,0 @@
-module _RopeModule {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/_RopeModule.build/_RopeModule-Swift.h"
-    requires objc
-}

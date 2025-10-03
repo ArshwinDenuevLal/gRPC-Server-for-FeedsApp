@@ -1,4 +1,0 @@
-module ArgumentParserToolInfo {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo-Swift.h"
-    requires objc
-}

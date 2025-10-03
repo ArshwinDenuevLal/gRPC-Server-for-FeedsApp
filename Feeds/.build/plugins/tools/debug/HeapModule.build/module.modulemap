@@ -1,4 +1,0 @@
-module HeapModule {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/HeapModule.build/HeapModule-Swift.h"
-    requires objc
-}

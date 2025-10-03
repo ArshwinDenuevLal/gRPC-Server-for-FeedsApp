@@ -1,4 +1,0 @@
-module StructuredFieldValues {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/StructuredFieldValues.build/StructuredFieldValues-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module GRPCNIOTransportHTTP2 {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/GRPCNIOTransportHTTP2.build/GRPCNIOTransportHTTP2-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module NIOSSL {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOSSL.build/NIOSSL-Swift.h"
-    requires objc
-}

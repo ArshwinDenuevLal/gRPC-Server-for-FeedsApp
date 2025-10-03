@@ -1,6 +1,0 @@
-dependencies: \
-  /Users/admin/Documents/Feeds/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/module.modulemap \
-  /Users/admin/Documents/Feeds/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/gen/bcm/sha512-armv8-win.S \
-  /Users/admin/Documents/Feeds/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_asm_base.h \
-  /Users/admin/Documents/Feeds/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_target.h \
-  /Users/admin/Documents/Feeds/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_boringssl_prefix_symbols_asm.h

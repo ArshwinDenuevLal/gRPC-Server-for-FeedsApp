@@ -1,4 +1,0 @@
-module GRPCProtobufCodeGen {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/GRPCProtobufCodeGen.build/GRPCProtobufCodeGen-Swift.h"
-    requires objc
-}

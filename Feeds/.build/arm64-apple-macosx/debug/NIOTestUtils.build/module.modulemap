@@ -1,4 +1,0 @@
-module NIOTestUtils {
-    header "/Users/admin/Documents/Feeds/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOTestUtils-Swift.h"
-    requires objc
-}

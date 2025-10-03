@@ -1,4 +1,0 @@
-module NIOResumableUpload {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/NIOResumableUpload.build/NIOResumableUpload-Swift.h"
-    requires objc
-}

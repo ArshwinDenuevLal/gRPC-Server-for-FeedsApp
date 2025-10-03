@@ -1,4 +1,0 @@
-module HashTreeCollections {
-    header "/Users/admin/Documents/Feeds/.build/plugins/tools/debug/HashTreeCollections.build/HashTreeCollections-Swift.h"
-    requires objc
-}
